@@ -1,0 +1,4 @@
+tkinter==8.6
+ffmpeg-python==0.2.0
+SpeechRecognition==3.8.1
+openai==0.27.0
